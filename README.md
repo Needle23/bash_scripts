@@ -1,1 +1,1 @@
-# bash_scripts MySQL
+# bash_scripts
